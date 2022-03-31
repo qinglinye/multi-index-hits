@@ -1,0 +1,64 @@
+h1 {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+h3 {
+  margin-top: 1rem;
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+em {
+  background: cyan;
+  font-style: normal;
+}
+
+.container {
+  padding: 1rem;
+}
+
+#pagination {
+  padding: 1rem;
+}
+
+#hits-query-suggestion .ais-Hits-item{
+  width: 10rem;
+}
+
+#hits-instant-search .ais-Hits-item{
+  width: 56rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  padding: 1rem;
+}
+
+.left-panel {
+  float: left;
+  width: 220px;
+}
+
+.right-panel {
+  margin-left: 230px;
+}
+
+.hit-description {
+  padding: 1rem;
+}
+.hit-name {
+  padding: 1rem;
+  font-weight: bold;
+}
+
+.ais-Panel-header {
+  margin-top: 1rem;
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-bottom: none;
+}

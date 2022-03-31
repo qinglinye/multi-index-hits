@@ -9,6 +9,7 @@
 # production
 /dist
 /.cache
+/.parcel*
 
 # misc
 .DS_Store
